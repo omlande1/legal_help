@@ -1,3 +1,4 @@
+
 # 📜 LegalEase: AI-Powered Legal Document Assistant
 
 ## 🌟 Project Overview
@@ -84,3 +85,10 @@ pip install -r requirements.txt
 
 # Set Hugging Face Token
 export HF_TOKEN='your_hugging_face_token'
+
+## output
+
+
+https://github.com/user-attachments/assets/e3d9491a-c7c5-4e77-88bc-43599ed969bb
+
+
